@@ -40,7 +40,9 @@ lalu setelah kita membuat file nya di htdocs caranya buka
 > Buka Windows C
 > lalu "XAMPP"
 > Kemudian Htdocs dan saya mebuat file dengan nama lab7_php_dasar seperti gambar berikut
+> 
 ![folder yang ingin di input](https://user-images.githubusercontent.com/56244106/117776569-eba78f00-b265-11eb-856f-26b49596b36b.JPG)
+
 > Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
