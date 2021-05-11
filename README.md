@@ -108,6 +108,9 @@ Struktur perulangan (atau dalam bahasa inggris disebut dengan loop) adalah instr
 Di dalam bahasa pemograman, terdapat beberapa jenis instruksi perulangan, salah satunya: struktur perulangan FOR.
 Berikut adalah input perulangan for
 
+![Input perulangan for](https://user-images.githubusercontent.com/56244106/117791351-6bd4f100-b274-11eb-8902-56e4ad41da46.JPG)
+Outputnya
+
 ![output perulangan for](https://user-images.githubusercontent.com/56244106/117786917-2f9f9180-b270-11eb-888b-b586b6e4e4e3.JPG)
 
 # Perulangan While
