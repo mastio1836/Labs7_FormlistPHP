@@ -53,8 +53,8 @@ kode seperti berikut.
 ![input menampilkan hello world](https://user-images.githubusercontent.com/56244106/117778403-c9167580-b267-11eb-98f6-82928f7cacd7.JPG)
 
 Kemudian untuk mengakses hasilnya melalui URL:
-
 http://localhost/lab7_php_dasar/php_dasar.php
+
 ![Output Hello world](https://user-images.githubusercontent.com/56244106/117778059-7046dd00-b267-11eb-9db6-b5a25d3e05b0.JPG)
 
 # Variable PHP
